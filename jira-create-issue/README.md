@@ -7,3 +7,7 @@ Any questions/issues, drop me a message or tweet [@dataplumbing](https://twitter
 
 ## Caveats
 The script was made for an enterprise that uses Google apps; the Google form requires that the user is logged into the company domain (so email address is automatically captured).  Some modifications may be required for your use case!
+
+# More Information
+I've blogged about this script, and added some more context and a short how to here:
+[Use a Google Form To Create JIRA Issues With The REST API](http://thedataplumber.net/using-google-forms-and-scripts-to-create-a-jira-issue/)
