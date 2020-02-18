@@ -109,4 +109,8 @@ function createIssue(e){
   MailApp.sendEmail(requesterEmail, emailSubject, emailBody, {
     name: "<MAILBOX_NAME>"
   })
+// Assign Additional Watcher not just the requestor
+  var options2 = options
+  options2.payload = JSON.stringify("<MAILBOX_NAME>")
+  var response = UrlFetchApp.fetch(url + issueKey + "/watchers", options2);
  }
