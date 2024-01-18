@@ -1,5 +1,5 @@
 # Description
-This is a collection of Google Scripts I've used or created to perform various functions.  Any questions/issues, drop me a message or tweet [@dataplumbing](https://twitter.com/dataplumbing).
+This is a collection of Google Scripts I've used or created to perform various functions.  Any questions/issues, drop me a message or tweet [@jodygajic](https://twitter.com/jodygajic).
 
 # Contents
 1. JIRA Create Issue
