@@ -3,7 +3,7 @@ A Google Form uses the [JIRA REST API](https://docs.atlassian.com/jira/REST/late
 
 The script sends an email to the issue creator, providing the ticket reference, and link to the JIRA system.  There are lots of comments in the code, which should be enough to work from.
 
-Any questions/issues, drop me a message or tweet [@dataplumbing](https://twitter.com/dataplumbing).
+Any questions/issues, drop me a message or tweet [@jodygajic](https://twitter.com/jodygajic).
 
 ## Caveats
 The script was made for an enterprise that uses Google apps; the Google form requires that the user is logged into the company domain (so email address is automatically captured).  Some modifications may be required for your use case!
