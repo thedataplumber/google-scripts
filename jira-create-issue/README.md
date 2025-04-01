@@ -10,4 +10,4 @@ The script was made for an enterprise that uses Google apps; the Google form req
 
 # More Information
 I've blogged about this script, and added some more context and a short how to here:
-[Use a Google Form To Create JIRA Issues With The REST API](http://thedataplumber.net/using-google-forms-and-scripts-to-create-a-jira-issue/)
+[Use a Google Form To Create JIRA Issues With The REST API](https://thedataplumber.net/use-a-google-form-to-create-jira-issues-with-the-rest-api-b7fe131de092)
